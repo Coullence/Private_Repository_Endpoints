@@ -2,8 +2,8 @@
 This repository is just but a link access to my private project(s) that i am working on. However, only provide the end ponts for particular projects/APIs for actual tests. If you may need the code, sent an email to coullence@gmail.com. Thank you.  
 
 <!-- Boostme System  -->
-*Project 2* <br>
-Rental Information System****************************<br>
+****Project 2 <br>
+***Rental Information System**<br>
 This is a kind of Tenancy or tenant information system developed in Laravel. I try to simulate the concept of autonomouse system with the help of task and event scheduling. The system run on apache server with crone jobs. 
 
 Project URL:"http://rmis.biscript.com/"
